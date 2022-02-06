@@ -1,9 +1,9 @@
 {
-  "name": "تليثون العرب",
-  "description": "تنصيب تليثون العرب الاصلي معرف قناتنا @iqthon",
-  "logo": "https://telegra.ph/file/277559574a1e241f5532e.jpg",
+  "name": "انتيثون العرب",
+  "description": "اهلا بك يمكنك التنصيب علي سورس انتيثون بدون اي مشاكل @BU-QH",
+  "logo": "https://telegra.ph/file/7fa849e0cb05b8b5e135f.jpg",
   "keywords": [    "plugin",    "modular",    "productivity"  ],
-  "repository": "https://github.com/Telethon-helper/Helper/",
+  "repository": "https://github.com/MTK-Q/KOPQ/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -33,12 +33,12 @@
     },
     "TZ": {
       "description": " الوقت",
-      "value": "Asia/Baghdad",
+      "value": "Africa/Cairo",
       "required": false
     },
     "UPSTREAM_REPO": {
-      "description": "لاتـغيره! ",
-      "value": "Telethon-Ar",
+      "description": "لا تلعب فيها! ",
+      "value": "CAT-AR",
       "required": false
     }
   },
